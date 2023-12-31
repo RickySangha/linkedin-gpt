@@ -1,0 +1,6 @@
+{
+"First Line": "I was on your site and saw you utilize cloud-based software for financial institutions.",
+"Benefits_1": "Optimize Aperture with skilled software developers to enhance collections efficiency and future credit decisions.",
+"Benefits_2": "Reduce staff costs by incorporating virtual assistants to streamline administrative tasks and maximize performance management efficiency.",
+"Benefits_3": "Utilize customer support reps to anticipate delinquencies and elevate customer engagement through emerging technologies."
+}
